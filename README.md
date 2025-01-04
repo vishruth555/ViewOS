@@ -34,10 +34,13 @@ This project implements a custom Unity shader called `StereoEffect` designed to 
 Demo files illustrating the shader in action are included in the `Demo Files` folder:
 
 - **Demo 1**: Video showing the stereoscopic effect (`demo1.mp4`)
+https://github.com/user-attachments/assets/dc02886d-04de-4e54-ad7e-6eb82e4f4070
+
+
 - **Demo 2**: Screenshot of the shader applied to a textured plane (`demo2.png`)
+![demo 2](https://github.com/user-attachments/assets/d9caf49c-29d9-4538-a0d0-6cf92d94ff76)
 
 ## Compatibility
-
 - Shader Model: 2.0 and above
 - Tested on:
   - Low-end Android devices
